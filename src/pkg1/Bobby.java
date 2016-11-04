@@ -8,7 +8,8 @@ package pkg1;
  *
  */
 public class Bobby {
-
+private int dave;
+	private string Trevor;
 	/**
 	 * 
 	 */
